@@ -1,7 +1,9 @@
-#鐘-プロムナード ( Kane Puromunādo )
-The Mall
+#鐘-プロムナード
+##[26.233132]
+###モール
+####Mōru
 
-#Hashes ( bytes: 57 )
+#ハッシュ ( バイト: 57 )
 md2: d87cbcaacb91982deca70a98e7906a01
 md4: fff4102dd60ab22859fa702e8bcd77b0
 md5: 959640232b39f93fee59c3482ca131bb
