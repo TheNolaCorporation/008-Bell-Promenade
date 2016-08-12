@@ -1,7 +1,7 @@
 #鐘-プロムナード
 ##[26.233132]
 ###モール
-####Mōru
+####Mōru ( T H E  M A L L )
 
 #ハッシュ ( バイト: 57 )
 md2: d87cbcaacb91982deca70a98e7906a01
@@ -47,4 +47,3 @@ haval160,5: dda36371a1ee720c259dcbd16e0f97b4ed107d53
 haval192,5: cc777e602b95eaace4500f1459eadd8db5a3cdf9b2d98027
 haval224,5: 5d9d7d179b5ddf7697ec7697f9717fff37c93a8c8f889595254b7c80
 haval256,5: 4602c338983093f2e102a93e8f743765a2baa285b66f82b37c635456dbd30f11
-
