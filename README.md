@@ -1,4 +1,4 @@
-#鐘-プロムナード ( Kane - puromunādo )
+#鐘-プロムナード ( Kane Puromunādo )
 The Mall
 
 #Hashes ( bytes: 57 )
